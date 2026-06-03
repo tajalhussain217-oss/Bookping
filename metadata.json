@@ -1,0 +1,6 @@
+{
+  "name": "BookPing",
+  "description": "SaaS web app to help salons and clinics reduce no-shows with automated WhatsApp reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
